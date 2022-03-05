@@ -17,5 +17,8 @@ public class Main {
         plchat2.print(); // change 2
         plchat2.print(); // change 3
 
+        Plchat3 plchat3 = new Plchat3();
+        plchat3.print(); //change 1,2
+
     }
 }
