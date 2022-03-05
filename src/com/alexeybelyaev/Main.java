@@ -8,5 +8,8 @@ public class Main {
         plchat1.print(); // change 2
         plchat1.print(); // change 3
         plchat1.print(); // change 4
+
+        Migration migration = new Migration();
+        migration.migrate(); // some migration change
     }
 }
