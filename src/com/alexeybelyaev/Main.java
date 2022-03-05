@@ -9,9 +9,13 @@ public class Main {
         plchat1.print(); // change 3
         plchat1.print(); // change 4
 
+        Migration migration = new Migration();
+        migration.migrate(); // some migration change
+
         Plchat2 plchat2 = new Plchat2();
         plchat2.print(); // change 1
         plchat2.print(); // change 2
         plchat2.print(); // change 3
+
     }
 }
