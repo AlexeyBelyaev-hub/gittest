@@ -7,5 +7,6 @@ public class Main {
         plchat1.print(); // change 1
         plchat1.print(); // change 2
         plchat1.print(); // change 3
+        plchat1.print(); // change 4
     }
 }
