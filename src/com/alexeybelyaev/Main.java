@@ -3,6 +3,7 @@ package com.alexeybelyaev;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Plchat1 plchat1 = new Plchat1();
+        plchat1.print();
     }
 }
